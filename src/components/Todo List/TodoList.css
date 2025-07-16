@@ -1,0 +1,87 @@
+.card-todo__list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+    margin-top: 1.5rem;
+}
+
+.card-todo__inner {
+    width: 60rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #2e2e2e;
+    padding: 15px 30px;
+    border-radius: 7px;
+    border-bottom: 4px solid green;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #fffafaef;
+}
+
+.todo-list__content h1 {
+    font-size: 1.1rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #2e2e2e;
+}
+
+.todo-bttn {
+    padding: 15px 40px;
+    font-size: 0.9rem;
+    border-radius: 7px;
+    border: transparent;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+}
+
+.todo-delete__btn {
+    margin-right: 15px;
+    background-color: rgba(214, 15, 15, 0.861);
+    color: #fff;
+}
+
+.todo-edit__btn {
+    background-color: green;
+    color: #fff;
+}
+
+.todo-status__badge {
+    font-size: 16px;
+    font-weight: bold;
+    /* background-color: #f39c12; */
+    color: #fff;
+    padding: 5px 8px;
+    border-radius: 5px;
+    margin-left: 14px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.todo-status__badge.Pending {
+    background-color: #f39c12;
+}
+
+.todo-status__badge.Completed {
+    background-color: green;
+}
+
+.todo-status__badge.In-progress {
+    background-color: blue;
+}
+
+.todo-status__badge.Cancelled {
+    background-color: red;
+}
+
+.fallback-text{
+    text-align: center;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 1.6rem;
+    letter-spacing: 0.2rem;
+    font-style: oblique;
+    color: rgb(184, 13, 13);
+    margin-top: 4rem;
+}

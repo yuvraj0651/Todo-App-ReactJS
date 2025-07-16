@@ -1,0 +1,14 @@
+.categories-tab__body{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 3rem;
+}
+
+.categories-tab__inner select{
+    padding: 10px 20px 10px 10px;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 1rem;
+    width: 13rem;
+}
