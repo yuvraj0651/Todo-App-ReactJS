@@ -1,12 +1,24 @@
-# React + Vite
+# ✅ Todo App — ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3 align="center">A simple and interactive Todo list application built with React.js, designed to help users manage tasks with a clean UI and efficient state handling.</h3>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
+**Todo App** is a classic productivity project that lets users **add, mark complete, and delete tasks** using React.js. It demonstrates practical use of React Hooks, component state management, user interaction, and UI logic — making it a great example for beginners and portfolio showcases.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Features
+- ➕ Add new tasks with an input
+- ✔️ Mark tasks as completed
+- 🗑️ Delete tasks
+- 📱 Simple, responsive layout
+- 🧩 Built with reusable React components
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js  
+- **Languages:** JavaScript (ES6+), HTML5, CSS3  
+- **Tools:** Git, GitHub
