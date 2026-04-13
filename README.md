@@ -27,3 +27,15 @@
 - **Frontend:** React.js  
 - **Languages:** JavaScript (ES6+), HTML5, CSS3  
 - **Tools:** Git, GitHub
+
+---
+
+## 🚀 Installation
+
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/yuvraj0651/Todo-App-ReactJS.git
+cd Todo-App-ReactJS
+npm install
+npm run dev
